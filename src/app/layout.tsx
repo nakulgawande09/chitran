@@ -1,3 +1,4 @@
+import Navigation from '@/components/Navigation';
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
@@ -28,7 +29,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <Navigation />
+        <section className="relative min-h-screen bg-gradient-to-b from-blue-50 to-white pt-20">
+          {children}
+        </section>
       </body>
     </html>
   );
