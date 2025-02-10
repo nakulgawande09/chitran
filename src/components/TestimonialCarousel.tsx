@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 
 const testimonials = [
   {
-    quote: "Chitran helped me find the perfect therapist. The platform made the entire process comfortable and easy.",
+    quote: "Swasthi helped me find the perfect therapist. The platform made the entire process comfortable and easy.",
     author: "Sarah Chen",
     role: "Product Designer",
     avatar: "/avatars/sarah.jpg"
@@ -16,7 +16,7 @@ const testimonials = [
     avatar: "/avatars/michael.jpg"
   },
   {
-    quote: "As a mental health professional, Chitran has transformed how I connect with and support my clients.",
+    quote: "As a mental health professional, Swas has transformed how I connect with and support my clients.",
     author: "Dr. Emily Watson",
     role: "Clinical Psychologist",
     avatar: "/avatars/emily.jpg"

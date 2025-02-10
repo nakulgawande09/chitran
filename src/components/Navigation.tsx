@@ -26,7 +26,7 @@ export default function Navigation() {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-2xl font-semibold text-gray-900">
-            Chitran
+            Swasthi
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">

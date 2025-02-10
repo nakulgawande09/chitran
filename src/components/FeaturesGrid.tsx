@@ -30,7 +30,7 @@ export default function FeaturesGrid() {
           transition={{ duration: 0.6 }}
         >
           <h2 className="text-4xl font-semibold text-gray-900 mb-4">
-            Why Choose Chitran
+            Why Choose Swasthi
           </h2>
         </motion.div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">

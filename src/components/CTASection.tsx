@@ -15,7 +15,7 @@ export default function CTASection() {
             Begin Your Mental Health Journey Today
           </h2>
           <p className="text-xl text-blue-100 mb-12 max-w-2xl mx-auto">
-            Join thousands who have found support and guidance through Chitran
+            Join thousands who have found support and guidance through Swasthi
           </p>
           <motion.button 
             className="bg-white text-blue-600 px-12 py-5 rounded-full text-lg font-medium hover:bg-blue-50 transition-colors"

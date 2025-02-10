@@ -1,4 +1,7 @@
+import { ReactNode } from "react"
+
 export interface AssessmentOption {
+  value: ReactNode
   id: number
   text: string
 }
@@ -23,4 +26,5 @@ export interface AssessmentProgress {
   answeredQuestions: number[]
   timeRemaining: number
   answers: Record<number, number>
+  email: string
 } 
